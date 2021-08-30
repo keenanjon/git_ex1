@@ -12,3 +12,10 @@ git push -u origin main
 
 vim notes.md
 
+git add .
+
+git commit -m 'added notes.md'
+
+git push
+
+vim notes.md
