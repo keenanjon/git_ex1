@@ -6,3 +6,4 @@ Jon added a row of text here.
 
 Pikkumyy on kävi vierailulla täällä
 
+Näen että olet tehnyt muutoksia lisää.
